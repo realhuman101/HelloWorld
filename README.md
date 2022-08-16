@@ -13,3 +13,4 @@
 - Go
 - Lua
 - R
+- Rust
