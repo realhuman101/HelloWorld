@@ -16,3 +16,4 @@
 - Rust
 - Dart
 - PHP
+- Ruby
