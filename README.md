@@ -18,4 +18,4 @@
 - PHP
 - Ruby
 - Objective-C
-- Brainfck
+- Brainf*ck
